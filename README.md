@@ -1,7 +1,6 @@
-# Velocity-Startup-Builder🚀
-Emphasizing how quickly you go from prompt to pitch.
+# Startup Builder OS 🚀
 
-Velocity is an automated, multi-agent AI framework designed to take a startup idea from initial research to a pitch-ready launch. It utilizes specialized AI personas, **LangGraph** for state management, and the **Model Context Protocol (MCP)** to integrate with essential tools like Figma, Google Drive, Google Sheets, and Tavily.
+Startup Builder OS is an automated, multi-agent AI framework designed to take a startup idea from initial research to a pitch-ready launch. It utilizes specialized AI personas, **LangGraph** for state management, and the **Model Context Protocol (MCP)** to integrate with essential tools like Figma, Google Drive, Google Sheets, and Tavily.
 
 ## 🏗️ Project Structure
 
